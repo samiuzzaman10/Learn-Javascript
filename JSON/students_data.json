@@ -6,7 +6,11 @@
       "age": 21,
       "cgpa": 3.44,
       "isRegistered": true,
-      "languages": ["Bengali", "English", "Hindi"],
+      "languages": [
+        "Bengali",
+        "English",
+        "Hindi"
+      ],
       "Friends": [
         {
           "Name": "Rifat",
@@ -18,14 +22,17 @@
         }
       ]
     },
-
     {
       "name": "Rifat Chowdhury",
       "milldlename": null,
       "age": 25,
       "cgpa": 4.24,
       "isRegistered": true,
-      "languages": ["Bengali", "English", "Hindi"],
+      "languages": [
+        "Bengali",
+        "English",
+        "Hindi"
+      ],
       "Friends": [
         {
           "Name": "Sami",

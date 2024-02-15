@@ -1,12 +1,1 @@
-{
-  "Friends" : [
-    {
-      Name: "Rifat",
-      Age: 25,
-    },
-    {
-      Name: "Sifat",
-      Age: 26,
-    }
-  ]
-}
+{"Friends":[{"Name":"Rifat","Age":25},{"Name":"Sifat","Age":26}]}

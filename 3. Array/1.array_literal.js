@@ -2,11 +2,11 @@
 // LastIndex = Length - 1
 
 const arr = [];
-arr[0] = 1; 
-arr[1] = 2; 
-arr[2] = 3; 
-arr[3] = 4; 
-arr[99] = 100; 
+arr[0] = 1;
+arr[1] = 2;
+arr[2] = 3;
+arr[99] = 100;
+
 
 console.log(arr.length);
 console.log(arr);
@@ -19,8 +19,8 @@ const names = [
     "Famida Jerin",
 ];
 // names[5] = "Sabera Bithi";
-names[names.length] = "Bithi";
-names[names.length] = "Mily";
+names[names.length] = "Sabera Bithi";
+names[names.length] = "Mily Chowdhury";
 
 console.log(names.length);
-console.log(names);
+console.log(names)

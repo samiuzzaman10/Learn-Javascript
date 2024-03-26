@@ -1,0 +1,32 @@
+.para-style{
+    color: red;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: italic;
+}
+.my-style{
+    color: tomato;
+    font-size: 3rem;
+}
+
+/* button{
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    font-size: 20px;
+}; */
+.anim{
+    box-shadow: 0 15px 18px 0 tomato;
+    opacity: 0.5;
+}
+
+div{
+    padding: 2rem;
+    margin-bottom: 1rem;
+    background-color: tomato;
+    height: 20rem;
+    width: 20rem;
+}
+body{
+    height: 150vh;
+}
